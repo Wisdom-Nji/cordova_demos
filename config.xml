@@ -56,5 +56,5 @@
         <allow-intent href="itms-apps:*" />
     </platform>
         <plugin name="cordova-plugin-sms-receive" spec="~1.0.2" />
-    <plugin name="cordova-sms-plugin" spec="https://github.com/cordova-sms/cordova-sms-plugin.git" />
+    <plugin name="cordova-sms-plugin" spec="~1.10.0" />
 </widget>
